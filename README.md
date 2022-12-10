@@ -15,14 +15,14 @@ Features:
 - Navigation through menus and options with a joystick
 
 Components:
-LCD Screen 3 inches ILI9341
-Servo Motor MG996R
-Ultrasonic Sensor HCSR04
-Button
-Joystick
-Speaker TMQ60500
-Audio Amplificator PAM8403
-mp3 Player HW311
-Nucleo STM32
-BluePill
-Deep Purple Complete Board
+- LCD Screen 3 inches ILI9341
+- Servo Motor MG996R
+- Ultrasonic Sensor HCSR04
+- Button
+- Joystick
+- Speaker TMQ60500
+- Audio Amplificator PAM8403
+- mp3 Player HW311
+- Nucleo STM32
+- BluePill
+- Deep Purple Complete Board
